@@ -4,7 +4,7 @@ redis_queue: redis-server config/redis_queue.conf
 
 web: bench serve --port 8001
 
-socketio: /home/roaa/.nvm/versions/node/v18.20.4/bin/node apps/frappe/socketio.js
+socketio: /home/heba-shaaban/.nvm/versions/node/v18.20.4/bin/node apps/frappe/socketio.js
 
 
 watch: bench watch
