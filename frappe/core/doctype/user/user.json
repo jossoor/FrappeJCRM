@@ -720,7 +720,6 @@
    "label": "Onboarding Status"
   },
   {
-   "default": "JCRM",
    "description": "If left empty, the default workspace will be the last visited workspace",
    "fieldname": "default_workspace",
    "fieldtype": "Link",
